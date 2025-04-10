@@ -58,16 +58,6 @@ Turning complex ideas into elegant, functional solutions is what I do best.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oumaralhammadi&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaralhammadi&layout=compact&theme=default" alt="Top Langs" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 - **LinkedIn**: [https://www.linkedin.com/in/omar-alhammadi-b5b950337]
